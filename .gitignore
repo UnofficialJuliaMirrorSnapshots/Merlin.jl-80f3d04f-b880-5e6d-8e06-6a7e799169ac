@@ -1,0 +1,12 @@
+docs/build/
+docs/site/
+sandbox.jl
+benchmark.jl
+.data
+*.so
+*.dll
+/mkl
+*.h5
+*.jld2
+*.log
+Manifest.toml
